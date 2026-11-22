@@ -9,4 +9,4 @@ Before: `the page only displayed current temp and wind speed.`
 After: `the page also displays a current weather emoji, correct time, and precipitation.`
 
 ## Live site
-`https://username.github.io/truck-weather/`
+[truck weather](https://zenspace-dev.github.io/truck-weather/)
